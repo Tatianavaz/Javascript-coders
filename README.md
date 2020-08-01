@@ -1,4 +1,6 @@
-# 🏆🏆 Good Coders Always win
+# Javascript coders
+
+* 🏆🏆 Good Coders Always win
 
 * ✨ With experience and lost nights, we learn new ways that improve not only the performance of our code but also its comprehension.
 
